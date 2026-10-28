@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\ejemplo01.dir\\Debug\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Taller II\\ejemplo_02\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/build/CMakeFiles/ejemplo01.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -o CMakeFiles\\ejemplo01.dir\\Release\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Taller II\\ejemplo_02\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/build/CMakeFiles/ejemplo01.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -o CMakeFiles\\ejemplo01.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Taller II\\ejemplo_02\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_02/build/CMakeFiles/ejemplo01.dir/RelWithDebInfo/main.cpp.obj"
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DCMAKE_INTDIR=\\\"Debug\\\" -g -o CMakeFiles\\ejemplo00.dir\\Debug\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Taller II\\ejemplo_01\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/build/CMakeFiles/ejemplo00.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DCMAKE_INTDIR=\\\"Release\\\" -O3 -DNDEBUG -o CMakeFiles\\ejemplo00.dir\\Release\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Taller II\\ejemplo_01\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/build/CMakeFiles/ejemplo00.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -O2 -g -DNDEBUG -o CMakeFiles\\ejemplo00.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Taller II\\ejemplo_01\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Taller II/ejemplo_01/build/CMakeFiles/ejemplo00.dir/RelWithDebInfo/main.cpp.obj"
+}
+]
