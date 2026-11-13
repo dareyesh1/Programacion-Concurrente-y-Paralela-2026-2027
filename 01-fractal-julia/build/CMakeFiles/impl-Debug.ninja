@@ -51,8 +51,6 @@ build CMakeFiles/fractal-julia.dir/Debug/main.cpp.obj: CXX_COMPILER__fractal-jul
   INCLUDES = -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\fractal-julia.dir\Debug
   OBJECT_FILE_DIR = CMakeFiles\fractal-julia.dir\Debug
-  TARGET_COMPILE_PDB = CMakeFiles\fractal-julia.dir\Debug\
-  TARGET_PDB = Debug\fractal-julia.pdb
   TARGET_SUPPORT_DIR = CMakeFiles\fractal-julia.dir
 
 build CMakeFiles/fractal-julia.dir/Debug/fractal-serial.cpp.obj: CXX_COMPILER__fractal-julia_unscanned_Debug C$:/Users/user/Desktop/Universidad/Ingenierìa$ en$ Computaciòn/9$ sem/Programación$ Concurrente$ y$ Paralela/01-fractal-julia/fractal-serial.cpp || cmake_object_order_depends_target_fractal-julia_DEBUG
@@ -63,8 +61,6 @@ build CMakeFiles/fractal-julia.dir/Debug/fractal-serial.cpp.obj: CXX_COMPILER__f
   INCLUDES = -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\fractal-julia.dir\Debug
   OBJECT_FILE_DIR = CMakeFiles\fractal-julia.dir\Debug
-  TARGET_COMPILE_PDB = CMakeFiles\fractal-julia.dir\Debug\
-  TARGET_PDB = Debug\fractal-julia.pdb
   TARGET_SUPPORT_DIR = CMakeFiles\fractal-julia.dir
 
 
@@ -82,10 +78,9 @@ build Debug/fractal-julia.exe: CXX_EXECUTABLE_LINKER__fractal-julia_Debug CMakeF
   OBJECT_DIR = CMakeFiles\fractal-julia.dir\Debug
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\user\Desktop\Universidad\Ingenierìa en Computaciòn\9 sem\Programación Concurrente y Paralela\01-fractal-julia\build" && C:\tools\vcpkg-2026.10.16\vcpkg.exe z-applocal "--target-binary=C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/01-fractal-julia/build/Debug/fractal-julia.exe" --installed-bin-dir=C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/debug/bin"
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\fractal-julia.dir\Debug\
   TARGET_FILE = Debug\fractal-julia.exe
   TARGET_IMPLIB = Debug\libfractal-julia.dll.a
-  TARGET_PDB = Debug\fractal-julia.pdb
+  TARGET_PDB = fractal-julia.exe.dbg
   TARGET_SUPPORT_DIR = CMakeFiles\fractal-julia.dir
 
 build fractal-julia.exe$:Debug: phony Debug/fractal-julia.exe

@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -g -mavx2 -o CMakeFiles\\fractal-julia.dir\\Debug\\fractal-serial.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\fractal-serial.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/fractal-serial.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Debug/fractal-serial.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -g -mavx2 -o CMakeFiles\\fractal-julia.dir\\Debug\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -g -mavx2 -o CMakeFiles\\fractal-julia.dir\\Debug\\palette.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\palette.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/palette.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Debug/palette.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -g -mavx2 -o CMakeFiles\\fractal-julia.dir\\Debug\\fractal-simd.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\fractal-simd.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/fractal-simd.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Debug/fractal-simd.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\Release\\fractal-serial.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\fractal-serial.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/fractal-serial.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Release/fractal-serial.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\Release\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\Release\\palette.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\palette.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/palette.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Release/palette.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O3 -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\Release\\fractal-simd.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\fractal-simd.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/fractal-simd.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/Release/fractal-simd.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\RelWithDebInfo\\fractal-serial.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\fractal-serial.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/fractal-serial.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/RelWithDebInfo/fractal-serial.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\main.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/main.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/RelWithDebInfo/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\RelWithDebInfo\\palette.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\palette.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/palette.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/RelWithDebInfo/palette.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem C:/tools/vcpkg-2026.10.16/installed/x64-mingw-dynamic/include -O2 -g -DNDEBUG -mavx2 -o CMakeFiles\\fractal-julia.dir\\RelWithDebInfo\\fractal-simd.cpp.obj -c \"C:\\Users\\user\\Desktop\\Universidad\\Ingenierìa en Computaciòn\\9 sem\\Programación Concurrente y Paralela\\03-fractal-julia-linux\\fractal-simd.cpp\"",
+  "file": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/fractal-simd.cpp",
+  "output": "C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir/RelWithDebInfo/fractal-simd.cpp.obj"
+}
+]

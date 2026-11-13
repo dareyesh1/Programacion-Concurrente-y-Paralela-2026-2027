@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/fractal-julia.dir
+C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/Universidad/Ingenierìa en Computaciòn/9 sem/Programación Concurrente y Paralela/03-fractal-julia-linux/build/CMakeFiles/rebuild_cache.dir
